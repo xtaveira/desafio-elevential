@@ -21,6 +21,7 @@ Cada Pokemon terá as seguintes informações:
 3. Tipo
 4. Tipo secundário
    1. opcional
+
 Cada tipo terá as seguintes informações:
 1. Código
 2. Nome
@@ -41,7 +42,7 @@ Cada tipo terá as seguintes informações:
 
 
 # Escopo do Banco de Dados
-![img](imagens/escopo_banco.png)
+![img](Imagens/escopo_banco.png)
 
 # Exemplo básico funcional
 ## [Um exemplo do minimo que é esperado pode ser encontrado aqui](https://desafio-pokedex.elevential.com/)
