@@ -42,3 +42,6 @@ Cada tipo terá as seguintes informações:
 
 # Escopo do Banco de Dados
 ![img](imagens/escopo_banco.png)
+
+# Exemplo básico funcional
+## [Um exemplo do minimo que é esperado pode ser encontrado aqui](https://desafio-pokedex.elevential.com/)
